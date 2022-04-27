@@ -16,7 +16,7 @@ Go to the repository you want to fork
 
 Click on the fork button in the top right corner
 
-![fork-image](tobedetermined-14130.github.io/assets/git-github-1/git-github-1-1.png)
+![fork-image](docs/assets/git-github-1/git-github-1-1.png)
 
 This will open your fork of the repository
 
