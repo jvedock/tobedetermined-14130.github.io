@@ -10,3 +10,8 @@
 ##### Recources used for programming but not nesscesarily about programming, ie. Android Studio setup, git tutorials, ect
 
 [The Basics of Git and Github](docs/git-github)
+
+
+
+### Programming Recources
+
