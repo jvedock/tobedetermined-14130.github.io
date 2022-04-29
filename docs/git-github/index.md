@@ -1,7 +1,13 @@
 # Learner’s Guide to Git and Github
 
 ### Part one: The basics of Contributing
-###### By Janek Vedock
+###### By janek vedock
+
+
+### Note: Photos are currently missing due to the nature of how images are stored on google docs, I plan to either migrate photos or create new ones as soon as I can
+###### -janek
+
+<br><br>
 
 #### Forking a Repository
 To contribute to a repository on github, you will need to fork it first, this will create a copy of the repository, under your name that can be merged back in at a later date with new changes
