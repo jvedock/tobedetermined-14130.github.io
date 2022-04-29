@@ -15,3 +15,4 @@
 
 ### Programming Recources
 
+[Onbot Java part 1, the fundementals of java](docs/on-bot/on-bot-1)
